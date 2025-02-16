@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+
+h1 {
+    color: rgb(255, 255, 255);
+    background-color: rgb(60, 95, 83);
+}
+
+h3 {
+    color: white;
+}
+
+a {
+    color: white;
+    background-color: rgb(60, 95, 83);
+    font-size: 22px;
+}
+
+.desc {
+    color: black;
+    font-size: 18px;
+}
+
+.desc.ingdesc {
+    font-size: 14px;
+}
+
+.ing {
+    color: rgb(69, 62, 71);
+}
+
+.step {
+    color: rgb(44, 18, 18);
+}
+
+.ramen {
+    background-color: rgb(90, 35, 35);
+}
+
+.cheese {
+    background-color: rgb(134, 136, 81);
+}
+
+.pan {
+    background-color: rgb(128, 89, 42);
+}
+
+#ramenpic {
+    height: 600px;
+    width: auto;
+}
+
+#cheesepic {
+    height: 600px;
+    width: auto;
+}
+
+#panpic {
+    height: auto;
+    width: 600px;
+}
