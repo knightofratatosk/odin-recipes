@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     font-family: Arial, sans-serif;
   }
@@ -59,4 +63,18 @@ a {
 #panpic {
     height: auto;
     width: 600px;
+}
+
+.top {
+    width: 400px;
+    height: 100px;
+    padding: 30px;
+    text-align: center;
+    margin: auto;
+}
+
+.link {
+    margin: auto;
+    width: 400px;
+    height: 60px;
 }
